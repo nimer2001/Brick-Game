@@ -22,3 +22,5 @@ This project is a classic Brick Ball game implemented in Java. The objective of 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue to discuss improvements or features.
 ---
+## Note
+I didn't include the images i have used in the game,feel free to download any image for a ball/brick/paddle/heart...
