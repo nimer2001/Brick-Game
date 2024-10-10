@@ -19,7 +19,7 @@ This project is a classic Brick Ball game implemented in Java. The objective of 
 3. Gain special items and bonuses from breaking certain bricks.
 4. The game ends when all bricks are broken or all lives are lost.
 
-##Important Note:
+## Important Note:
 once you have the DanoGameLab package ready,make sure you include The DanoGameLab.jar dependency in your project structure.
 If you faced any problem reloading the game,I'm here to help.Fell free to contact me!
 ## Contributing
